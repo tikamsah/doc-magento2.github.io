@@ -264,6 +264,6 @@
             .catch(error => console.error('Error fetching layout:', error));
     }
 
-    includeLayout('https://tikam.com.np/docs/sidebar.html','sidebarContainer');
+    
 
 })()
