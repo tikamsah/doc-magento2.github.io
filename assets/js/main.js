@@ -252,9 +252,9 @@
       mirror: false
     })
   });
+})()
 
-
-  // Function to include a layout using JavaScript
+// Function to include a layout using JavaScript
     function includeLayout(url,layout) {
         fetch(url)
             .then(response => response.text())
@@ -263,7 +263,3 @@
             })
             .catch(error => console.error('Error fetching layout:', error));
     }
-
-    
-
-})()
