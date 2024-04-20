@@ -952,3 +952,15 @@ section {
     padding-right: 20px 15px;
   }
 }
+code {
+  font-size: 0.975em;
+  color: #f5f3f4 !important;
+  word-wrap: break-word;
+}
+
+
+.codebg {
+  background: #262020;
+  border-radius: 10px;
+  padding: 35px;
+}
