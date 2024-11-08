@@ -964,3 +964,15 @@ code {
   border-radius: 10px;
   padding: 35px;
 }
+
+.code {
+  border: 1px solid;
+  height: auto;
+  background: #040b14;
+  color: #fff;
+  padding: 10px;
+  padding-left: 10px;
+  border-radius: 15px;
+  padding-left: 20px;
+  font-weight: bold;
+}
